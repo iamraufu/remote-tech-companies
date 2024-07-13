@@ -1,0 +1,833 @@
+[{
+        "Company": "10up",
+        "Business_or_products": "Web consulting",
+        "Tech_stack_or_skills": "WordPress, PHP, Node, Web",
+        "Globally_competitive_compensation?": "✗",
+        "Job_page_links": "https://10up.com/careers/",
+        "Other_links": "https://www.glassdoor.com.au/Overview/Working-at-10Up-EI_IE775906.11,15.htm"
+    },
+    {
+        "Company": "AngelList",
+        "Business_or_products": "Early-stage investing",
+        "Tech_stack_or_skills": "React, TypeScript, GraphQL, Ruby, Kubernetes",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "https://angel.co/company/angellist",
+        "Other_links": "https://www.glassdoor.com/Overview/Working-at-AngelList-EI_IE1089094.11,20.htm?countryRedirect=true"
+    },
+    {
+        "Company": "Automattic",
+        "Business_or_products": "WordPress & more",
+        "Tech_stack_or_skills": "PHP, Java, Web, Mobile, Node",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "https://automattic.com/work-with-us/",
+        "Other_links": "https://www.glassdoor.com.au/Overview/Working-at-Automattic-EI_IE751107.11,21.htm"
+    },
+    {
+        "Company": "Bandcamp",
+        "Business_or_products": "Music publishing platform",
+        "Tech_stack_or_skills": "Ruby, Web",
+        "Globally_competitive_compensation?": "?",
+        "Job_page_links": "https://bandcamp.com/jobs",
+        "Other_links": "https://www.glassdoor.com/Overview/Working-at-Bandcamp-EI_IE1307633.11,19.htm"
+    },
+    {
+        "Company": "BandLab",
+        "Business_or_products": "Social music platform",
+        "Tech_stack_or_skills": "Serverless, .NET, Node.js, TypeScript, Swift, Kotlin",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "https://bandlab.com/careers",
+        "Other_links": ""
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Overview/Working-at-BandLab-EI_IE1471626.11,18.htm"
+    },
+    {
+        "Company": "Basecamp",
+        "Business_or_products": "Collaboration tools",
+        "Tech_stack_or_skills": "Ruby, Web",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://basecamp.com/about/jobs"
+    },
+    {
+        "Company": "BriteCore",
+        "Business_or_products": "Insurance technology platform",
+        "Tech_stack_or_skills": "Python, Mobile",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.britecore.com/job-postings"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Reviews/BriteCore-Reviews-E348484.htm"
+    },
+    {
+        "Company": "Buffer",
+        "Business_or_products": "Social media tools",
+        "Tech_stack_or_skills": "PHP, Node, Web, Mobile",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "http://journey.buffer.com/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com.au/Overview/Working-at-Buffer-EI_IE941992.11,17.htm"
+    },
+    {
+        "Job_page_links": "💰 Salary formula",
+        "Other_links": "https://open.buffer.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/"
+    },
+    {
+        "Company": "Canonical",
+        "Business_or_products": "Ubuntu dev & support",
+        "Tech_stack_or_skills": "C, C++, Python, DevOps",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "http://www.canonical.com/careers/all-vacancies"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com.au/Overview/Working-at-Canonical-EI_IE230560.11,20.htm"
+    },
+    {
+        "Company": "Chef",
+        "Business_or_products": "IT automation",
+        "Tech_stack_or_skills": "Ruby, DevOps",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.chef.io/careers/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com.au/Overview/Working-at-Chef-Software-EI_IE444809.11,24.htm"
+    },
+    {
+        "Company": "chess.com",
+        "Business_or_products": "Online chess",
+        "Tech_stack_or_skills": "Java, mobile, etc..",
+        "Globally_competitive_compensation?": "?",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.chess.com/jobs"
+    },
+    {
+        "Company": "Clevertech",
+        "Business_or_products": "Dev consulting",
+        "Tech_stack_or_skills": "Many (see job page)",
+        "Globally_competitive_compensation?": "✗",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://hire.clevertech.biz/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com.au/Overview/Working-at-Clevertech-EI_IE781853.11,21.htm"
+    },
+    {
+        "Company": "Cloudbeds",
+        "Business_or_products": "Hospitality Software",
+        "Tech_stack_or_skills": "Web, DevOps",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.cloudbeds.com/careers"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Overview/Working-at-Cloudbeds-EI_IE1399374.11,20.htm"
+    },
+    {
+        "Company": "Cloudbees",
+        "Business_or_products": "CI/CD, Jenkins, Codeship",
+        "Tech_stack_or_skills": "Java, Web, Go, Vuejs, Rails",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.cloudbees.com/careers"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.ca/Overview/Working-at-CloudBees-EI_IE1106279.11,20.htm"
+    },
+    {
+        "Company": "Codelathe",
+        "Business_or_products": "Enterprise File Sharing, Sync and Backup",
+        "Tech_stack_or_skills": "PHP, Web, Node, C++",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.getfilecloud.com/jobs"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Overview/Working-at-FileCloud-EI_IE2893485.11,20.htm"
+    },
+    {
+        "Company": "ConsenSys",
+        "Business_or_products": "Blockchain studio",
+        "Tech_stack_or_skills": "Many (see job page)",
+        "Globally_competitive_compensation?": "?",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://consensys.net/careers/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Reviews/ConsenSys-Reviews-E1613426.htm"
+    },
+    {
+        "Company": "Crossover",
+        "Business_or_products": "Full-time long-term projects",
+        "Tech_stack_or_skills": "Many (see job page)",
+        "Globally_competitive_compensation?": "✗",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://app.crossover.com/x/marketplace/available-jobs"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Overview/Working-at-Crossover-for-Work-EI_IE1041838.11,29.htm"
+    },
+    {
+        "Company": "DataDog",
+        "Business_or_products": "Monitoring & analytics",
+        "Tech_stack_or_skills": "Scala, Java, Python, Go",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.datadoghq.com/careers/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Overview/Working-at-Datadog-EI_IE762009.11,18.htm"
+    },
+    {
+        "Company": "DataRobot",
+        "Business_or_products": "Data science as a service",
+        "Tech_stack_or_skills": "Python, R, Web, data stuff",
+        "Globally_competitive_compensation?": "?",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "http://www.datarobot.com/careers/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com.au/Overview/Working-at-DataRobot-EI_IE911432.11,20.htm"
+    },
+    {
+        "Company": "Doist",
+        "Business_or_products": "Productivity and team communication apps",
+        "Tech_stack_or_skills": "Web, Mobile",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://doist.com/jobs/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Overview/Working-at-Doist-EI_IE1102553.11,16.htm"
+    },
+    {
+        "Company": "Dribbble",
+        "Business_or_products": "Where Designers get Inspired & Hired",
+        "Tech_stack_or_skills": "Ruby, Web, Mobile",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://dribbble.com/careers"
+    },
+    {
+        "Company": "DuckDuckGo",
+        "Business_or_products": "Privacy Products: search, mobile and desktop browsers, email, tracker blocking.",
+        "Tech_stack_or_skills": "Mobile, C#, Perl, JavaScript, DevOps",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://duckduckgo.com/hiring/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Reviews/DuckDuckGo-Reviews-E1086167.htm"
+    },
+    {
+        "Company": "Elastic",
+        "Business_or_products": "Elasticsearch, Kibana, Logstash, Beats",
+        "Tech_stack_or_skills": "Java, DevOps, Web",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.elastic.co/about/careers"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com.au/Overview/Working-at-Elastic-EI_IE751551.11,18.htm"
+    },
+    {
+        "Company": "Envato",
+        "Business_or_products": "Sites for creatives",
+        "Tech_stack_or_skills": "Ruby, Web",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://envato.com/careers/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com.au/Overview/Working-at-Envato-EI_IE700841.11,17.htm"
+    },
+    {
+        "Company": "Eyeo",
+        "Business_or_products": "AdBlock Plus & More",
+        "Tech_stack_or_skills": "Many",
+        "Globally_competitive_compensation?": "?",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://eyeo.com/jobs/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Overview/Working-at-Eyeo-EI_IE848298.11,15.htm"
+    },
+    {
+        "Company": "Fireflies.ai",
+        "Business_or_products": "Automatic meeting notes",
+        "Tech_stack_or_skills": "Node, Web, Python",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://fireflies.freshteam.com/jobs/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Overview/Working-at-Fireflies-CA-EI_IE2304798.11,23.htm"
+    },
+    {
+        "Company": "Gatsby",
+        "Business_or_products": "Platform for managing JAMstack websites",
+        "Tech_stack_or_skills": "Web, Node, React, TypeScript",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.gatsbyjs.com/careers/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Overview/Working-at-Gatsby-CA-EI_IE2965347.11,20.htm"
+    },
+    {
+        "Company": "Genuitec",
+        "Business_or_products": "Eclipse-based tools",
+        "Tech_stack_or_skills": "Java, Eclipse, Web, Mobile",
+        "Globally_competitive_compensation?": "?",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "http://www.genuitec.com/company/careers/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com.au/Overview/Working-at-Genuitec-EI_IE346957.11,19.htm"
+    },
+    {
+        "Company": "Ghost",
+        "Business_or_products": "Publishing platform",
+        "Tech_stack_or_skills": "Node, Web",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://ghost.org/about/"
+    },
+    {
+        "Company": "GitLab",
+        "Business_or_products": "GitLab",
+        "Tech_stack_or_skills": "Git, Ruby, Web",
+        "Globally_competitive_compensation?": "✗",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://about.gitlab.com/jobs/"
+    },
+    {
+        "Job_page_links": "💰 Salary calculator",
+        "Other_links": "https://about.gitlab.com/handbook/people-group/global-compensation/calculator/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com.au/Overview/Working-at-GitLab-EI_IE1296544.11,17.htm"
+    },
+    {
+        "Company": "Gradle",
+        "Business_or_products": "Gradle Enterprise & build tool",
+        "Tech_stack_or_skills": "Many (see job page)",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://gradle.com/careers/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com.au/Reviews/Gradle-Enterprise-Reviews-E3007587.htm"
+    },
+    {
+        "Company": "Help Scout",
+        "Business_or_products": "Help desk software",
+        "Tech_stack_or_skills": "Java, Web",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.helpscout.com/company/careers/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Overview/Working-at-Help-Scout-EI_IE1138231.11,21.htm"
+    },
+    {
+        "Company": "Igalia",
+        "Business_or_products": "Embedded development, browsers",
+        "Tech_stack_or_skills": "C++",
+        "Globally_competitive_compensation?": "?",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.igalia.com/jobs/"
+    },
+    {
+        "Company": "inVision",
+        "Business_or_products": "Design prototyping platform",
+        "Tech_stack_or_skills": "Go, Node, Web, Mobile",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.invisionapp.com/careers"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com.au/Overview/Working-at-InVision-App-EI_IE912781.11,23.htm"
+    },
+    {
+        "Company": "Jackson River",
+        "Business_or_products": "Nonprofit IT consulting",
+        "Tech_stack_or_skills": "PHP, Drupal, Web",
+        "Globally_competitive_compensation?": "?",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.jacksonriver.com/about/jobs"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com.au/Overview/Working-at-Jackson-River-EI_IE859951.11,24.htm"
+    },
+    {
+        "Company": "Jitbit Software",
+        "Business_or_products": "Help desk software",
+        "Tech_stack_or_skills": "ASP.NET, C#, JavaScript",
+        "Globally_competitive_compensation?": "?",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.jitbit.com/company/"
+    },
+    {
+        "Company": "Kentik",
+        "Business_or_products": "Network observability platform",
+        "Tech_stack_or_skills": "C/C++, Go, JavaScript, Node.js, Web",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://kentik.com/careers"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Overview/Working-at-Kentik-EI_IE1344154.11,17.htm"
+    },
+    {
+        "Company": "Kraken",
+        "Business_or_products": "Bitcoin & cryptocurrency exchange",
+        "Tech_stack_or_skills": "Rust, C++, Go, Python, React, DevOps, Mobile",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.kraken.com/en-us/careers"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com.au/Overview/Working-at-Kraken-Digital-Asset-Exchange-EI_IE938667.11,40.htm"
+    },
+    {
+        "Company": "Lullabot",
+        "Business_or_products": "Design & dev consulting",
+        "Tech_stack_or_skills": "PHP, Drupal, Web",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.lullabot.com/jobs"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com.au/Overview/Working-at-Lullabot-EI_IE912792.11,19.htm"
+    },
+    {
+        "Company": "madewithlove",
+        "Business_or_products": "Web & software development",
+        "Tech_stack_or_skills": "PHP, Laravel, React +Native, Javascript, Web",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://madewithlove.com/careers/"
+    },
+    {
+        "Company": "MailerLite",
+        "Business_or_products": "Email marketing software",
+        "Tech_stack_or_skills": "Many",
+        "Globally_competitive_compensation?": "✗",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.mailerlite.com/jobs"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Overview/Working-at-MailerLite-EI_IE1504754.11,21.htm"
+    },
+    {
+        "Company": "MarsBased",
+        "Business_or_products": "Web & mobile dev consultancy",
+        "Tech_stack_or_skills": "Ruby on Rails, Angular, Ionic, Javascript, Web",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://marsbased.com/jobs"
+    },
+    {
+        "Company": "Mapillary",
+        "Business_or_products": "Street-level imagery platform",
+        "Tech_stack_or_skills": "Python, Javascript, Ruby, Java, Shell",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://jobs.mapillary.com/"
+    },
+    {
+        "Company": "Mobile Jazz",
+        "Business_or_products": "Software development",
+        "Tech_stack_or_skills": "PHP, Web, Mobile, Design",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://mobilejazz.com/jobs"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com.au/Overview/Working-at-Mobile-Jazz-EI_IE1665207.11,22.htm"
+    },
+    {
+        "Company": "Mozilla",
+        "Business_or_products": "Firefox & more",
+        "Tech_stack_or_skills": "C++, Web, Mobile",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://careers.mozilla.org/listings/?location=Remote"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com.au/Overview/Working-at-Mozilla-EI_IE19129.11,18.htm"
+    },
+    {
+        "Company": "Netlify",
+        "Business_or_products": "Web developer platform based on JAMstack",
+        "Tech_stack_or_skills": "Javascript, Node.js, Web",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.netlify.com/careers"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.ca/Overview/Working-at-Netlify-EI_IE1426251.11,18.htm"
+    },
+    {
+        "Company": "Olark",
+        "Business_or_products": "Live chat widgets",
+        "Tech_stack_or_skills": "Ruby, Web",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.olark.com/jobs/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com.au/Overview/Working-at-Olark-EI_IE754375.11,16.htm"
+    },
+    {
+        "Company": "Original Eight",
+        "Business_or_products": "Web consulting",
+        "Tech_stack_or_skills": "PHP, Drupal, Web",
+        "Globally_competitive_compensation?": "?",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.o8.agency/careers"
+    },
+    {
+        "Company": "Percona",
+        "Business_or_products": "Open Source Database Software & Services",
+        "Tech_stack_or_skills": "DBA, DevOps, Kubernetes, C/C++, Go, JavaScript",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.percona.com/about-percona/careers"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Overview/Working-at-percona-EI_IE283779.11,18.htm"
+    },
+    {
+        "Company": "Platform.sh",
+        "Business_or_products": "Continuous deployment cloud hosting",
+        "Tech_stack_or_skills": "Many",
+        "Globally_competitive_compensation?": "?",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://platform.sh/company/careers"
+    },
+    {
+        "Company": "Pythian",
+        "Business_or_products": "Data & IT consulting",
+        "Tech_stack_or_skills": "DBA, DevOps",
+        "Globally_competitive_compensation?": "✗",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.pythian.com/careers/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com.au/Overview/Working-at-Pythian-EI_IE114258.11,18.htm"
+    },
+    {
+        "Company": "Rebelmouse",
+        "Business_or_products": "Rebelmouse",
+        "Tech_stack_or_skills": "Many",
+        "Globally_competitive_compensation?": "?",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://careers.rebelmouse.com/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Overview/Working-at-Rebelmouse-EI_IE894815.11,21.htm"
+    },
+    {
+        "Company": "RedHat",
+        "Business_or_products": "Red Hat Linux Distribution",
+        "Tech_stack_or_skills": "Many",
+        "Globally_competitive_compensation?": "?",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://careers-redhat.icims.com/jobs/search"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Overview/Working-at-Red-Hat-EI_IE8868.11,18.htm"
+    },
+    {
+        "Company": "Redox",
+        "Business_or_products": "Healthcare API Platform",
+        "Tech_stack_or_skills": "Node, React, API, Networking",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.redoxengine.com/company/careers/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Overview/Working-at-Redox-Inc-EI_IE1266986.11,20.htm"
+    },
+    {
+        "Company": "Scrapinghub",
+        "Business_or_products": "Scraping as a service",
+        "Tech_stack_or_skills": "Python, Web",
+        "Globally_competitive_compensation?": "✗",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://scrapinghub.com/jobs/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com.au/Overview/Working-at-Scrapinghub-EI_IE929046.11,22.htm"
+    },
+    {
+        "Company": "ScyllaDB",
+        "Business_or_products": "Real-Time Big Data Database, DBaaS",
+        "Tech_stack_or_skills": "C++, GoLang, Python, Linux, DevOps",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.scylladb.com/company/careers/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com.au/Overview/Working-at-ScyllaDB-EI_IE1622223.11,19.htm"
+    },
+    {
+        "Company": "Shogun",
+        "Business_or_products": "Ecommerce products",
+        "Tech_stack_or_skills": "Ruby on Rails, React",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://getshogun.com/careers/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Overview/Working-at-Shogun-CA-EI_IE2451916.11,20.htm"
+    },
+    {
+        "Company": "Shopify",
+        "Business_or_products": "Ecommerce platform",
+        "Tech_stack_or_skills": "Ruby, Go, TypeScript, React, Mobile, DevOps",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.shopify.com/careers"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Overview/Working-at-Shopify-EI_IE675933.11,18.htm"
+    },
+    {
+        "Company": "Sonatype",
+        "Business_or_products": "Software chain automation",
+        "Tech_stack_or_skills": "Java, Groovy, DevOps",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.sonatype.com/careers-sonatype"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com.au/Overview/Working-at-Sonatype-EI_IE1042729.11,19.htm"
+    },
+    {
+        "Company": "Sourcegraph",
+        "Business_or_products": "Code search as a service",
+        "Tech_stack_or_skills": "Go, TypeScript, React, Web",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://boards.greenhouse.io/sourcegraph91"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Overview/Working-at-Sourcegraph-EI_IE1356770.11,22.htm"
+    },
+    {
+        "Company": "Spotify",
+        "Business_or_products": "Music streaming platform",
+        "Tech_stack_or_skills": "Mobile",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.lifeatspotify.com/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Reviews/Spotify-Reviews-E408251.htm?countryRedirect=true"
+    },
+    {
+        "Company": "Superside",
+        "Business_or_products": "Creative Collaboration and Design as a Service",
+        "Tech_stack_or_skills": "Kotlin, React, Web",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.superside.com/career"
+    },
+    {
+        "Company": "Square",
+        "Business_or_products": "Square, Cash App",
+        "Tech_stack_or_skills": "Many",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://careers.squareup.com/us/en/jobs?location%5B%5D=Remote"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Overview/Working-at-Square-EI_IE422050.11,17.htm"
+    },
+    {
+        "Company": "Time Doctor",
+        "Business_or_products": "Time Tracking Tool",
+        "Tech_stack_or_skills": "PHP, Node, Angular, Web, Mobile",
+        "Globally_competitive_compensation?": "?",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.timedoctor.com/jobs.html"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Overview/Working-at-Time-Doctor-EI_IE1321033.11,22.htm"
+    },
+    {
+        "Company": "Toggl",
+        "Business_or_products": "Time Tracking Tool",
+        "Tech_stack_or_skills": "Go, Ruby, PostgreSQL, Mobile, Web",
+        "Globally_competitive_compensation?": "✗",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://jobs.toggl.com/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com.au/Overview/Working-at-Toggl-EI_IE734060.11,16.htm"
+    },
+    {
+        "Company": "Hubstaff",
+        "Business_or_products": "Time Tracking Tool",
+        "Tech_stack_or_skills": "Swift, Ruby, Web, Mobile",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://hubstaff.com/jobs"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Overview/Working-at-Hubstaff-EI_IE1821686.11,19.htm"
+    },
+    {
+        "Company": "Toptal",
+        "Business_or_products": "Tech freelancer marketplace",
+        "Tech_stack_or_skills": "Ruby, Rails, React, GraphQL, Web, Kubernetes",
+        "Globally_competitive_compensation?": "✗",
+        "Job_page_links": "💪 Core team positions",
+        "Other_links": "https://www.toptal.com/careers"
+    },
+    {
+        "Job_page_links": "💻 Apply as a developer",
+        "Other_links": "https://www.toptal.com/developers"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com.au/Overview/Working-at-Toptal-EI_IE882070.11,17.htm"
+    },
+    {
+        "Company": "Vercel",
+        "Business_or_products": "Web developer platform based on JAMstack",
+        "Tech_stack_or_skills": "Javascript, Node.js, Web",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://vercel.com/careers"
+    },
+    {
+        "Company": "Wikimedia",
+        "Business_or_products": "Wikipedia",
+        "Tech_stack_or_skills": "Web, PHP",
+        "Globally_competitive_compensation?": "✗",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://wikimediafoundation.org/wiki/Work_with_us"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Overview/Working-at-Wikimedia-Foundation-EI_IE38331.11,31.htm"
+    },
+    {
+        "Company": "Xapo",
+        "Business_or_products": "Financial Technology",
+        "Tech_stack_or_skills": "Mobile, Web, Python",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://xapo.com/careers/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Overview/Working-at-Xapo-EI_IE1843514.11,15.htm"
+    },
+    {
+        "Company": "XWP",
+        "Business_or_products": "Remote full-time projects",
+        "Tech_stack_or_skills": "Web, WordPress",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://join.xwp.co/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Overview/Working-at-XWP-EI_IE1582060.11,14.htm"
+    },
+    {
+        "Company": "X-team",
+        "Business_or_products": "Remote full-time projects",
+        "Tech_stack_or_skills": "Mobile, Web",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://x-team.com/remote-programming-jobs/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Overview/Working-at-X-Team-International-EI_IE1274500.11,31.htm"
+    },
+    {
+        "Company": "You Need A Budget",
+        "Business_or_products": "Budgeting Application",
+        "Tech_stack_or_skills": "Ruby, Mobile, Web",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://www.youneedabudget.com/careers/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com/Reviews/You-Need-A-Budget-Reviews-E1026556.htm"
+    },
+    {
+        "Company": "Zapier",
+        "Business_or_products": "App connectors",
+        "Tech_stack_or_skills": "Python, Node, Web",
+        "Globally_competitive_compensation?": "✓",
+        "Job_page_links": "⌨️ Jobs",
+        "Other_links": "https://zapier.com/jobs/"
+    },
+    {
+        "Job_page_links": "🚪 Glassdoor",
+        "Other_links": "https://www.glassdoor.com.au/Overview/Working-at-Zapier-EI_IE1196705.11,17.htm"
+    }
+]
